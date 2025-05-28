@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=F79069&center=true&vCenter=true&random=true&width=450&height=70&lines=Machine+Learning;Computer+Science;Data+Science+;Data+Engineering;Artificial+Intelligence" alt="Typing SVG" /></a>
-</p>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=F7D358&center=true&vCenter=true&random=true&width=435&lines=Machine+Learning+Engineer;Artificial+Intelligence+Engineer;Data+Science;Data+Engineer;Deploy+ML+systems+via+API+and+Docker;Computer+Science+Enthusiast" alt="Typing SVG" /></a>
+</p>	
 
 <h2 id="-about-me">
 <!--     <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>  -->
@@ -14,7 +14,7 @@
 <!-- 	<li>🔭 I'm currently a Data Engineer (Intern) at "company".</li> -->
 	<li>🎓 I am currently a graduate student at the <a href="https://www.lakeheadu.ca/programs/departments/computer-science">Faculty of Computer Science</a>, <a href="https://www.lakeheadu.ca">Lakehead University</a>, 	pursuing a Master of Computer Science.</li>
 	<li>🏫 I hold a Bachelor’s degree in Information Technology, specializing in Artificial Intelligence, from FPT University, Vietnam.</li>
-	<li>💼 I am open to new job opportunities — check out <a href="#">my resume</a>.</li>
+	<li>💼 I am open to new job opportunities — check out <a href="https://drive.google.com/file/d/103Mw6UrZaUoxIlASdaK1sj8n5pe8sDPS/view?usp=sharing">my resume</a>.</li>
 	<li>🧑‍💻 I’m passionate about solving problems with software solutions.</li>
 	<li>🤓 I’m always eager to stay updated with the latest technologies and knowledge.</li>
 </ul>
