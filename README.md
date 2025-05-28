@@ -104,6 +104,8 @@
     <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0"></a>
 </p></li>
 
+</ul>
+
 <br>
 
 <h2 id="----github-stats">
